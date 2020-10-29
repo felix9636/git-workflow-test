@@ -10,4 +10,6 @@ int main(int argc, char *argv[])
     return a.exec();
     //eintrag windows
     //eintag mac
+
+    //in windows geändret
 }
